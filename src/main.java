@@ -15,6 +15,9 @@ public class main {
         m1.def();
         m1.atacar();
         m1.descansar();
+        m1.sk1();
+        m1.sk2();
+        m1.ult();
 
 
         System.out.println("-----------------Arqueiro--------------");
@@ -27,6 +30,9 @@ public class main {
         a1.def();
         a1.atacar();
         a1.descansar();
+        a1.sk1();
+        a1.sk2();
+        a1.ult();
 
 
         System.out.println("-----------------Guerreiro--------------");
@@ -39,6 +45,9 @@ public class main {
         g1.def();
         g1.atacar();
         g1.descansar();
+        g1.sk1();
+        g1.sk2();
+        g1.ult();
 
 
 
